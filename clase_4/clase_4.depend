@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1503622984 source:d:\campospablo\clase_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"consola.h"
+
+1503617704 d:\campospablo\clase_4\funciones.h
+
+1503614683 source:d:\campospablo\clase_4\funciones.c
+	"funciones.h"
+
+1503623664 source:d:\campospablo\clase_4\consola.c
+	<stdio.h>
+	<stdlib.h>
+	"consola.h"
+
+1503621610 d:\campospablo\clase_4\consola.h
+
