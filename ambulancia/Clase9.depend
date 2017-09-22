@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1505351422 source:d:\clase9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+
+1505351027 d:\clase9\producto.h
+
+1505351027 source:d:\clase9\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505351422 d:\clase9\validar.h
+
+1505351027 source:d:\clase9\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505436705 source:d:\nadia\clase9_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+
+1505436163 d:\nadia\clase9_v2\producto.h
+
+1505415640 d:\nadia\clase9_v2\validar.h
+
+1505436763 source:d:\nadia\clase9_v2\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505426139 source:d:\nadia\clase9_v2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505605071 source:c:\users\pablo.sebastian\desktop\ambulancia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+	"llamada.h"
+
+1505600926 c:\users\pablo.sebastian\desktop\ambulancia\producto.h
+
+1505596081 c:\users\pablo.sebastian\desktop\ambulancia\validar.h
+
+1505600926 source:c:\users\pablo.sebastian\desktop\ambulancia\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505597808 source:c:\users\pablo.sebastian\desktop\ambulancia\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505606962 source:c:\users\pablo.sebastian\desktop\ambulancia\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"llamada.h"
+	"validar.h"
+
+1505605345 c:\users\pablo.sebastian\desktop\ambulancia\llamada.h
+
+1505955699 source:d:\campospablo\ambulancia\llamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"llamada.h"
+	"validar.h"
+
+1505600928 d:\campospablo\ambulancia\producto.h
+
+1505955208 d:\campospablo\ambulancia\llamada.h
+
+1505596082 d:\campospablo\ambulancia\validar.h
+
+1505956097 source:d:\campospablo\ambulancia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+	"llamada.h"
+
+1505600928 source:d:\campospablo\ambulancia\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505597810 source:d:\campospablo\ambulancia\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1504747418 source:d:\campospablo\clase_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1504747955 source:d:\campospablo\clase_7\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1504747859 d:\campospablo\clase_7\lib.h
+

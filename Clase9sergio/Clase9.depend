@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1505351422 source:d:\clase9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+
+1505351027 d:\clase9\producto.h
+
+1505351027 source:d:\clase9\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505351422 d:\clase9\validar.h
+
+1505351027 source:d:\clase9\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505351028 source:d:\sergio\clase9_v2\clase9\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1505351424 d:\sergio\clase9_v2\clase9\validar.h
+
+1505430840 source:d:\sergio\clase9_v2\clase9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+
+1505431161 d:\sergio\clase9_v2\clase9\producto.h
+
+1505430684 source:d:\sergio\clase9_v2\clase9\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505434910 source:d:\campospablo\clase9sergio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"producto.h"
+	"validar.h"
+
+1505436263 d:\campospablo\clase9sergio\producto.h
+
+1505351424 d:\campospablo\clase9sergio\validar.h
+
+1505436434 source:d:\campospablo\clase9sergio\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"validar.h"
+
+1505437154 source:d:\campospablo\clase9sergio\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
