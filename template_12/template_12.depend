@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1506640183 source:d:\campospablo\template_12\entidad1.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad1.h"
+	<string.h>
+
+1506638212 source:d:\campospablo\template_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad2.h"
+	"entidad1.h"
+
+1506638320 source:d:\campospablo\template_12\entidad2.c
+	<stdio.h>
+	<stdlib.h>
+	"entidad2.h"
+	<string.h>
+
+1506638145 d:\campospablo\template_12\entidad2.h
+
+1506644012 d:\campospablo\template_12\entidad1.h
+
+1506199956 source:d:\campospablo\tp_ambulancia(nadia)\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1506199162 d:\campospablo\tp_ambulancia(nadia)\validar.h
+

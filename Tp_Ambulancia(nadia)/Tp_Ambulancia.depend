@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1506204662 source:c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\asociado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Asociado.h"
+	"NuevaLlamada.h"
+	"validar.h"
+
+1506204165 c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\asociado.h
+
+1506199161 c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\validar.h
+
+1506539845 source:c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\nuevallamada.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Asociado.h"
+	"NuevaLlamada.h"
+	"validar.h"
+
+1506211928 c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\nuevallamada.h
+
+1506199955 source:c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validar.h"
+
+1506209428 source:c:\users\nderenzis\documents\laboratorio1\laboratorio1\tp_ambulancia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Asociado.h"
+	"NuevaLlamada.h"
+	"validar.h"
+
